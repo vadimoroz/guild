@@ -12,5 +12,5 @@ Public commit for Guild task
 Public commit for Guild tas
 Public commit for Guild ta
 Public commit for Guild taskPublic commit for Guild t
-Public commit for Guild task
+Public commit for Guild tas
 Public commit for Guild tas
