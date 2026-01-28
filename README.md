@@ -1,3 +1,3 @@
 # guild
 guild commit
-Public commit for Guild t
+Public commit for Guil
