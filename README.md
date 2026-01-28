@@ -11,4 +11,4 @@ Public commit for Guild tas
 Public commit for Guild ta
 Public commit for Guild t
 Public commit for Gui
-Public commit for Gui
+Public commit for Gu
